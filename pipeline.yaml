@@ -12,6 +12,7 @@ spec:
     - name: branch
       default: main
     - name: app-name
+      default: tax-calculator
   tasks:
   
     - name: init
